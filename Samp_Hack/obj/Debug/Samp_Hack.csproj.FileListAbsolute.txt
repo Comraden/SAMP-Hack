@@ -1,0 +1,10 @@
+C:\Users\Postalx\Documents\Visual Studio 2013\Projects\Samp_Hack\Samp_Hack\bin\Debug\Samp_Hack.exe.config
+C:\Users\Postalx\Documents\Visual Studio 2013\Projects\Samp_Hack\Samp_Hack\bin\Debug\Samp_Hack.exe
+C:\Users\Postalx\Documents\Visual Studio 2013\Projects\Samp_Hack\Samp_Hack\bin\Debug\Samp_Hack.pdb
+C:\Users\Postalx\Documents\Visual Studio 2013\Projects\Samp_Hack\Samp_Hack\obj\Debug\Samp_Hack.csprojResolveAssemblyReference.cache
+C:\Users\Postalx\Documents\Visual Studio 2013\Projects\Samp_Hack\Samp_Hack\obj\Debug\Samp_Hack.Form1.resources
+C:\Users\Postalx\Documents\Visual Studio 2013\Projects\Samp_Hack\Samp_Hack\obj\Debug\Samp_Hack.Properties.Resources.resources
+C:\Users\Postalx\Documents\Visual Studio 2013\Projects\Samp_Hack\Samp_Hack\obj\Debug\Samp_Hack.csproj.GenerateResource.Cache
+C:\Users\Postalx\Documents\Visual Studio 2013\Projects\Samp_Hack\Samp_Hack\obj\Debug\Samp_Hack.exe
+C:\Users\Postalx\Documents\Visual Studio 2013\Projects\Samp_Hack\Samp_Hack\obj\Debug\Samp_Hack.pdb
+C:\Users\Postalx\Documents\Visual Studio 2013\Projects\Samp_Hack\Samp_Hack\bin\Debug\VAMemory.dll
